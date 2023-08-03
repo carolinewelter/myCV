@@ -5,5 +5,7 @@ My curriculum vitae (CV) written using LaTeX, based on **Aras Güngöre** templa
 ## Run on Terminal
 
 ```sh
-pdflatex caroline_welter.tex
+pdflatex caroline_welter_cv.tex
+biber caroline_welter_cv.bcf
+pdflatex caroline_welter_cv.tex
 ```

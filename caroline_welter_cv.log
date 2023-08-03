@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.11)  1 AUG 2023 10:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.3)  3 AUG 2023 13:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./caroline_welter_cv.tex
 (caroline_welter_cv.tex
-LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-05>
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -42,7 +42,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \aftertitleunit=\skip52
 \ttl@plus=\dimen141
 \ttl@minus=\dimen142
-\ttl@toksa=\toks16
+\ttl@toksa=\toks17
 \titlewidth=\dimen143
 \titlewidthlast=\dimen144
 \titlewidthfirst=\dimen145
@@ -72,24 +72,24 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 tx))
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
+\every@verbatim=\toks18
+\verbatim@line=\toks19
 \verbatim@in@stream=\read2
 )
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
 y
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks19
+\enitkv@toks@=\toks20
 \labelindent=\skip53
 \enit@outerparindent=\dimen146
-\enit@toks=\toks20
+\enit@toks=\toks21
 \enit@inbox=\box52
 \enit@count@id=\count193
 \enitdp@description=\count194
 )
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
 y
-Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
 y
@@ -112,7 +112,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 )
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+\KV@toks@=\toks22
 )
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.
 sty
@@ -137,7 +137,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
 y
@@ -163,7 +163,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \Hy@pagecounter=\count198
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -174,24 +174,24 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 \Hy@SavedSpaceFactor=\count199
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4449.
+Package hyperref Info: Bookmarks ON on input line 4434.
 \c@Hy@tempcnt=\count266
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4772.
 \XeTeXLinkMargin=\dimen148
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -205,13 +205,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count267
 \Field@Width=\dimen149
 \Fld@charsize=\dimen150
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
 y
@@ -225,7 +225,7 @@ package with kernel methods
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
 ty
@@ -263,7 +263,7 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
 ) (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/04/18 3.88 The Babel package
+Package: babel 2023/07/15 v3.92 The Babel package
 \babel@savecnt=\count273
 \U@D=\dimen151
 \l@unhyphenated=\language79
@@ -303,7 +303,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen152
 \ar@mcellbox=\box53
 \extrarowheight=\dimen153
-\NC@list=\toks22
+\NC@list=\toks23
 \extratabsurround=\skip64
 \backup@length=\skip65
 \ar@cellbox=\box54
@@ -314,7 +314,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@target=\dimen157
 \TX@delta=\dimen158
 \TX@cols=\count275
-\TX@ftn=\toks23
+\TX@ftn=\toks24
 )
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.st
 y
@@ -598,7 +598,7 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-05-05 L3 programming layer (loader) 
+Package: expl3 2023-06-30 L3 programming layer (loader) 
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
@@ -607,7 +607,7 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box55
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-05-05 L3 programming layer (loader) 
+(biblatex)             2023-06-30 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
@@ -630,24 +630,24 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (caroline_welter_cv.aux)
 \openout1 = `caroline_welter_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
-LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 136.
+LaTeX Font Info:    ... okay on input line 136.
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
 .mkii
@@ -657,14 +657,14 @@ LaTeX Font Info:    ... okay on input line 135.
 \scratchbox=\box56
 \nofMPsegments=\count416
 \nofMParguments=\count417
-\everyMPshowfont=\toks24
+\everyMPshowfont=\toks25
 \MPscratchCnt=\count418
 \MPscratchDim=\dimen160
 \MPnumerator=\count419
 \makeMPintoPDFobject=\count420
-\everyMPtoPDFconversion=\toks25
+\everyMPtoPDFconversion=\toks26
 )
-Package hyperref Info: Link coloring OFF on input line 135.
+Package hyperref Info: Link coloring OFF on input line 136.
  (caroline_welter_cv.out) (caroline_welter_cv.out)
 \@outlinefile=\write4
 \openout4 = `caroline_welter_cv.out'.
@@ -707,94 +707,45 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `caroline_welter_cv.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'caroline_welter_cv.bbl' not found.
+Package biblatex Info: ... file 'caroline_welter_cv.bbl' found.
+ (caroline_welter_cv.bbl)
+Package biblatex Info: Reference section=0 on input line 136.
+Package biblatex Info: Reference segment=0 on input line 136.
 
-No file caroline_welter_cv.bbl.
-Package biblatex Info: Reference section=0 on input line 135.
-Package biblatex Info: Reference segment=0 on input line 135.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 140.
+(Font)              using `OT1/cmr/bx/n' instead on input line 141.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 142.
+ut line 143.
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawe
 sometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 143.
+(Font)              <7> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 143.
+(Font)              <5> on input line 144.
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 14
-3.
+4.
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 144.
+ut line 145.
 
 (C:\Users\caw00024\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\ufontawe
 someone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 167.
+(Font)              <10.95> on input line 168.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 167.
+(Font)              <8> on input line 168.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 167.
-
-Runaway argument?
-{\small 
-! Paragraph ended before \text@command was complete.
-<to be read again> 
-                   \par 
-l.230       \printbibliography
-                              [title={Bibliography 1}, keyword={published-pa...
-
-? R
-OK, entering \nonstopmode...
-! Extra }, or forgotten \endgroup.
-<recently read> \egroup 
-                        
-l.230       \printbibliography
-                              [title={Bibliography 1}, keyword={published-pa...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Empty bibliography on input line 230.
-
-Runaway argument?
-{\small 
-! Paragraph ended before \text@command was complete.
-<to be read again> 
-                   \par 
-l.241       \printbibliography
-                              [title={Bibliography 2}, keyword={working-pape...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-<recently read> \egroup 
-                        
-l.241       \printbibliography
-                              [title={Bibliography 2}, keyword={working-pape...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-LaTeX Warning: Empty bibliography on input line 241.
+(Font)              <6> on input line 168.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -806,38 +757,35 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 {C:/Users/caw00024/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/c
 aw00024/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometw
 o.enc}{C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawes
-ome/fontawesomeone.enc}] (caroline_welter_cv.aux)
+ome/fontawesomeone.enc}]
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[2] (caroline_welter_cv.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `caroline_welter_cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `caroline_welter_cv.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  25D3B61C2F580ED02948F3B2E061194C;385.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                caroline_welter_cv
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `caroline_welter_cv.out' has not changed.
+(rerunfilecheck)             Checksum: 25D3B61C2F580ED02948F3B2E061194C;385.
 Package logreq Info: Writing requests to 'caroline_welter_cv.run.xml'.
 \openout1 = `caroline_welter_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19997 strings out of 476361
- 352637 string characters out of 5786828
- 1870242 words of memory out of 5000000
- 40180 multiletter control sequences out of 15000+600000
- 518870 words of font info for 57 fonts, out of 8000000 for 9000
+ 20252 strings out of 475550
+ 357116 string characters out of 5761118
+ 1943238 words of memory out of 5000000
+ 41235 multiletter control sequences out of 15000+600000
+ 564968 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,1145b,5044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,81p,1145b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaweso
 me/FontAwesome.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX
@@ -849,9 +797,9 @@ b><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy6.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti10.pfb>
-Output written on caroline_welter_cv.pdf (1 page, 139019 bytes).
+Output written on caroline_welter_cv.pdf (2 pages, 152504 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

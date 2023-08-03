@@ -13,9 +13,10 @@
 \usepackage{tabularx}
 \usepackage{hyphenat}
 \usepackage{fontawesome}
-\usepackage[style=apa, backend=biber]{biblatex}
-\addbibresource{bibfile1.bib}
-\addbibresource{bibfile2.bib}
+\usepackage[style=apa, backend=biber, sorting=ydnt]{biblatex}
+\usepackage{fontawesome}
+\defbibheading{pubheading}{\noindent\faFileTextO\hspace{1em}\textbf{#1}\par}
+\addbibresource{papers.bib}
 \input{glyphtounicode}
 
 
@@ -165,9 +166,6 @@
       }{Morgantown, WV, USA}
       {Ph.D. Student, Economics;}{Aug 2021 \textbf{--} May 2026 (Expected, flexible)}
       {\textbf{GPA: 3.89/4.00}}{}
-        % \resumeItemListStart
-            % \resumeItem{\textbf{Relevant coursework:} }
-        % \resumeItemListEnd
     
     \resumeEducationHeading
       {Western Paraná State University
@@ -221,26 +219,12 @@
 
 \section{Research}
 \nocite{*}
-  \vspace{3pt}
-  \resumeSubHeadingListStart
-  
-    \resumeSubheading
-      {Peer-reviewed Publications}{}
 
-      \printbibliography[title={Bibliography 1}, keyword={published-paper}, heading=none]
+\printbibliography[title={Peer-reviewed Publications}, heading=pubheading, keyword=published-paper]
 
-    % \resumeSubheading
-    %   {Revise and Resubmit}{}
-    %     \resumeItemListStart
-    %         \resumeItem{Welter, C.A., Jackson, R., and Cornwall, G. Aggregation Bias and Input Output Regionalization. Detail or Accuracy? Revise & Resubmit in the Economic System Research Journal.}
-    %     \resumeItemListEnd  
+\printbibliography[title={Working Papers}, heading=pubheading, keyword=working-paper]
 
-    \resumeSubheading
-      {Working Papers}{} 
-         
-      \printbibliography[title={Bibliography 2}, keyword={working-paper}, heading=none]
-
-  \resumeSubHeadingListEnd    
+\printbibliography[title={Work in Progress}, heading=pubheading, keyword=work-in-progress]
     
 % % ----------- PRESENTATIONS ----------- 
 

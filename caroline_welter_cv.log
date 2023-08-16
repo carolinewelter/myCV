@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.7)  7 AUG 2023 16:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.7)  16 AUG 2023 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -769,6 +769,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 168.
 
 
+Package biblatex Warning: Keyword 'published-paper' not found on input line 255
+.
+
+
+LaTeX Warning: Empty bibliography on input line 255.
+
+
+Package biblatex Warning: Keyword 'working-paper' not found on input line 257.
+
+
+LaTeX Warning: Empty bibliography on input line 257.
+
+
+Package biblatex Warning: Keyword 'work-in-progress' not found on input line 25
+9.
+
+
+LaTeX Warning: Empty bibliography on input line 259.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/it' instead on input line 284.
+
+
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
@@ -780,21 +804,11 @@ aw00024/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometw
 o.enc}{C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawes
 ome/fontawesomeone.enc}]
 
-LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
-(Font)              using `OT1/cmr/m/it' instead on input line 284.
-
-
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[2]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[3] (caroline_welter_cv.aux)
+[2] (caroline_welter_cv.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
@@ -803,18 +817,26 @@ L3 programming layer <2023-06-30>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `caroline_welter_cv.out' has not changed.
 (rerunfilecheck)             Checksum: 5BA5ACE58E835BCC54AF8783929F4A5A;965.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                caroline_welter_cv
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'caroline_welter_cv.run.xml'.
 \openout1 = `caroline_welter_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20834 strings out of 475550
- 367057 string characters out of 5761118
- 1946238 words of memory out of 5000000
- 41802 multiletter control sequences out of 15000+600000
- 565624 words of font info for 64 fonts, out of 8000000 for 9000
+ 20560 strings out of 475550
+ 360181 string characters out of 5761118
+ 1945238 words of memory out of 5000000
+ 41541 multiletter control sequences out of 15000+600000
+ 565606 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,81p,1145b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontaweso
@@ -830,9 +852,9 @@ c/amsfonts/cm/cmsy10.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/caw00024/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/caw00024/AppData/Loca
 l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on caroline_welter_cv.pdf (3 pages, 185065 bytes).
+Output written on caroline_welter_cv.pdf (2 pages, 176556 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
+ 123 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 

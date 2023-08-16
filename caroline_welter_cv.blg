@@ -1,19 +1,9 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'caroline_welter_cv.blg'
-[120] biber-MSWIN64:340> INFO - === 
-[166] Biber.pm:419> INFO - Reading 'caroline_welter_cv.bcf'
-[305] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[328] Biber.pm:4419> INFO - Processing section 0
-[342] Biber.pm:4610> INFO - Looking for bibtex file 'papers.bib' for section 0
-[397] bibtex.pm:1713> INFO - LaTeX decoding ...
-[423] bibtex.pm:1519> INFO - Found BibTeX data source 'papers.bib'
-[553] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[554] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[554] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[554] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[592] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[592] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[593] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[593] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[610] bbl.pm:660> INFO - Writing 'caroline_welter_cv.bbl' with encoding 'UTF-8'
-[630] bbl.pm:763> INFO - Output to caroline_welter_cv.bbl
+[0] 5917a4bc.pm:307> INFO - This is Biber 2.19
+[0] 5917a4bc.pm:310> INFO - Logfile is 'caroline_welter_cv.blg'
+[171] biber-MSWIN64:340> INFO - === 
+[241] 1fa66f73.pm:419> INFO - Reading 'caroline_welter_cv.bcf'
+[377] 1fa66f73.pm:976> INFO - Using all citekeys in bib section 0
+[400] 1fa66f73.pm:4419> INFO - Processing section 0
+[422] 1fa66f73.pm:4610> INFO - Looking for bibtex file 'papers.bib' for section 0
+[474] bibtex.pm:1713> INFO - LaTeX decoding ...
+[504] bibtex.pm:1519> INFO - Found BibTeX data source 'papers.bib'

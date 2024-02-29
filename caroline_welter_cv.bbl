@@ -1,0 +1,623 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/apasortcite//global/global}
+    \entry{welter2024disability}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{fullhash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{bibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorbibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authornamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorfullhash}{d07938793ba5ee6d86eab7937415df18}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Breaking Barriers to Access: Investigating the Impact of {{Covid-19-induced}} {{SSA}} Field Office Closures on Disability Benefit Applications}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{work-in-progress}
+    \endentry
+    \entry{welter2024diabetes}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e831ae37d68569e2ef89ee3676fde7b}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=413f0cee311feaaa424aba7750549126}{%
+           family={Gaulke},
+           familyi={G\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{fullhash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \strng{bibnamehash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \strng{authorbibnamehash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \strng{authornamehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{authorfullhash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigating {{CGM}} Adoption: Physician Patterns, Insurance Disparities, and Peer Influence in Diabetes Care}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{work-in-progress}
+    \endentry
+    \entry{welter2023covid-io}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7542f0e9075c04f558f276a5e85a60c4}{%
+           family={Ferreira\bibnamedelima Neto},
+           familyi={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Amir\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c07a45ab89f35471cc569f63316eb1e}{%
+           family={Centuriao},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5838ab7cf5cfb10de5c4c1694d156f9}{%
+           family={Perobelli},
+           familyi={P\bibinitperiod},
+           given={Fernando\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3f702aed7c8759df2156cae6b368c19}
+      \strng{fullhash}{27403bf0a12ff7c60da87a593a79784a}
+      \strng{bibnamehash}{27403bf0a12ff7c60da87a593a79784a}
+      \strng{authorbibnamehash}{27403bf0a12ff7c60da87a593a79784a}
+      \strng{authornamehash}{a3f702aed7c8759df2156cae6b368c19}
+      \strng{authorfullhash}{27403bf0a12ff7c60da87a593a79784a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Covid-19 shocks and Mitigation Policies in {{Southwest Florida}}: an input-output analysis}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{work-in-progress}
+    \endentry
+    \entry{welter2023obesity}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{fullhash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{bibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorbibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authornamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorfullhash}{d07938793ba5ee6d86eab7937415df18}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presented in the 62th Annual Meetings Southern Regional Science Association (SRSA Conference), Savannah, GA, March 2023}
+      \field{title}{Is Obesity affected by Urban Sprawl? Evidence from {{Brazil}}}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{welter2023zika}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{fullhash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{bibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorbibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authornamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorfullhash}{d07938793ba5ee6d86eab7937415df18}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presented in 70th Annual North American Meetings of the Regional Science Association International (NARSC), San Diego, California, November 2023}
+      \field{title}{Maternal Responses to the {{Zika}} Epidemic: Immunization and Beyond}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{welter2023nyc}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c07a45ab89f35471cc569f63316eb1e}{%
+           family={Centuriao},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{fullhash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{bibnamehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{authorbibnamehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{authornamehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{authorfullhash}{f54ded7b72071291dcd81483b70f97f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presented in 69th Annual North American Meetings of the Regional Science Association International (NARSC), Montreal, CA, November 2022}
+      \field{title}{Economic Impact Analysis of the {{NYC Financial District (FiDi)}} Plan Implementation in {{Lower Manhattan}}: An Input-Output Approach}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{jackson2022aggregation}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7606f2d32bd08039dc98a464ae7bb008}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Randall},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=521e2162a6ec4db7f62b8ee35d4a3137}{%
+           family={Cornwall},
+           familyi={C\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bdae5e1de84f690ca473f6746a6db0b}
+      \strng{fullhash}{8daace923b89cfa79bade11268f45a0f}
+      \strng{bibnamehash}{8daace923b89cfa79bade11268f45a0f}
+      \strng{authorbibnamehash}{8daace923b89cfa79bade11268f45a0f}
+      \strng{authornamehash}{1bdae5e1de84f690ca473f6746a6db0b}
+      \strng{authorfullhash}{8daace923b89cfa79bade11268f45a0f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regional Research Institute Working Papers. Revise and Resubmit in Economic Systems Research}
+      \field{title}{Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{Welter2021Identification}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44a693a91e557ecbb758d26350722d46}{%
+           family={Cypriano},
+           familyi={C\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c07a45ab89f35471cc569f63316eb1e}{%
+           family={Centuriao},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mid-Continent Regional Science Association}%
+      }
+      \strng{namehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{fullhash}{6e879510611edadcf7af77fef5342742}
+      \strng{bibnamehash}{6e879510611edadcf7af77fef5342742}
+      \strng{authorbibnamehash}{6e879510611edadcf7af77fef5342742}
+      \strng{authornamehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{authorfullhash}{6e879510611edadcf7af77fef5342742}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Journal of Regional Analysis \& Policy}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Identification and Analysis of the Evolution of Local Productive Arrangements}
+      \field{volume}{51}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{49\bibrangedash 66}
+      \range{pages}{18}
+      \keyw{published-paper}
+    \endentry
+  \enddatalist
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{welter2024disability}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{fullhash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{bibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorbibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authornamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorfullhash}{d07938793ba5ee6d86eab7937415df18}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Breaking Barriers to Access: Investigating the Impact of {{Covid-19-induced}} {{SSA}} Field Office Closures on Disability Benefit Applications}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{work-in-progress}
+    \endentry
+    \entry{welter2024diabetes}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e831ae37d68569e2ef89ee3676fde7b}{%
+           family={Grossman},
+           familyi={G\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=413f0cee311feaaa424aba7750549126}{%
+           family={Gaulke},
+           familyi={G\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{fullhash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \strng{bibnamehash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \strng{authorbibnamehash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \strng{authornamehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{authorfullhash}{029cd5f146a83d800a8ebe73b6e34bb1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigating {{CGM}} Adoption: Physician Patterns, Insurance Disparities, and Peer Influence in Diabetes Care}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{work-in-progress}
+    \endentry
+    \entry{welter2023covid-io}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7542f0e9075c04f558f276a5e85a60c4}{%
+           family={Ferreira\bibnamedelima Neto},
+           familyi={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Amir\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c07a45ab89f35471cc569f63316eb1e}{%
+           family={Centuriao},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5838ab7cf5cfb10de5c4c1694d156f9}{%
+           family={Perobelli},
+           familyi={P\bibinitperiod},
+           given={Fernando\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a3f702aed7c8759df2156cae6b368c19}
+      \strng{fullhash}{27403bf0a12ff7c60da87a593a79784a}
+      \strng{bibnamehash}{27403bf0a12ff7c60da87a593a79784a}
+      \strng{authorbibnamehash}{27403bf0a12ff7c60da87a593a79784a}
+      \strng{authornamehash}{a3f702aed7c8759df2156cae6b368c19}
+      \strng{authorfullhash}{27403bf0a12ff7c60da87a593a79784a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Covid-19 shocks and Mitigation Policies in {{Southwest Florida}}: an input-output analysis}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{work-in-progress}
+    \endentry
+    \entry{welter2023obesity}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{fullhash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{bibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorbibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authornamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorfullhash}{d07938793ba5ee6d86eab7937415df18}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presented in the 62th Annual Meetings Southern Regional Science Association (SRSA Conference), Savannah, GA, March 2023}
+      \field{title}{Is Obesity affected by Urban Sprawl? Evidence from {{Brazil}}}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{welter2023zika}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{fullhash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{bibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorbibnamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authornamehash}{d07938793ba5ee6d86eab7937415df18}
+      \strng{authorfullhash}{d07938793ba5ee6d86eab7937415df18}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presented in 70th Annual North American Meetings of the Regional Science Association International (NARSC), San Diego, California, November 2023}
+      \field{title}{Maternal Responses to the {{Zika}} Epidemic: Immunization and Beyond}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{welter2023nyc}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c07a45ab89f35471cc569f63316eb1e}{%
+           family={Centuriao},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{fullhash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{bibnamehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{authorbibnamehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{authornamehash}{f54ded7b72071291dcd81483b70f97f5}
+      \strng{authorfullhash}{f54ded7b72071291dcd81483b70f97f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presented in 69th Annual North American Meetings of the Regional Science Association International (NARSC), Montreal, CA, November 2022}
+      \field{title}{Economic Impact Analysis of the {{NYC Financial District (FiDi)}} Plan Implementation in {{Lower Manhattan}}: An Input-Output Approach}
+      \field{year}{2023}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{jackson2022aggregation}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7606f2d32bd08039dc98a464ae7bb008}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Randall},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=521e2162a6ec4db7f62b8ee35d4a3137}{%
+           family={Cornwall},
+           familyi={C\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1bdae5e1de84f690ca473f6746a6db0b}
+      \strng{fullhash}{8daace923b89cfa79bade11268f45a0f}
+      \strng{bibnamehash}{8daace923b89cfa79bade11268f45a0f}
+      \strng{authorbibnamehash}{8daace923b89cfa79bade11268f45a0f}
+      \strng{authornamehash}{1bdae5e1de84f690ca473f6746a6db0b}
+      \strng{authorfullhash}{8daace923b89cfa79bade11268f45a0f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Regional Research Institute Working Papers. Revise and Resubmit in Economic Systems Research}
+      \field{title}{Aggregation Bias and Input-Output Regionalization: Detail or Accuracy?}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{working-paper}
+    \endentry
+    \entry{Welter2021Identification}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d07938793ba5ee6d86eab7937415df18}{%
+           family={Welter},
+           familyi={W\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44a693a91e557ecbb758d26350722d46}{%
+           family={Cypriano},
+           familyi={C\bibinitperiod},
+           given={Luiz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c07a45ab89f35471cc569f63316eb1e}{%
+           family={Centuriao},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Mid-Continent Regional Science Association}%
+      }
+      \strng{namehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{fullhash}{6e879510611edadcf7af77fef5342742}
+      \strng{bibnamehash}{6e879510611edadcf7af77fef5342742}
+      \strng{authorbibnamehash}{6e879510611edadcf7af77fef5342742}
+      \strng{authornamehash}{c9a350ca1beebf1ef73c852678585f73}
+      \strng{authorfullhash}{6e879510611edadcf7af77fef5342742}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{journaltitle}{Journal of Regional Analysis \& Policy}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Identification and Analysis of the Evolution of Local Productive Arrangements}
+      \field{volume}{51}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{49\bibrangedash 66}
+      \range{pages}{18}
+      \keyw{published-paper}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

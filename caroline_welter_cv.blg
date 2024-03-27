@@ -1,21 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'caroline_welter_cv.blg'
-[125] biber-MSWIN64:340> INFO - === 
-[169] Biber.pm:419> INFO - Reading 'caroline_welter_cv.bcf'
-[312] Biber.pm:976> INFO - Using all citekeys in bib section 0
-[335] Biber.pm:4419> INFO - Processing section 0
-[349] Biber.pm:4610> INFO - Looking for bibtex file 'papers.bib' for section 0
-[404] bibtex.pm:1713> INFO - LaTeX decoding ...
-[422] bibtex.pm:1519> INFO - Found BibTeX data source 'papers.bib'
-[501] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[501] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[501] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[502] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[522] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[523] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[523] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[523] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[533] bbl.pm:660> INFO - Writing 'caroline_welter_cv.bbl' with encoding 'UTF-8'
-[543] bbl.pm:763> INFO - Output to caroline_welter_cv.bbl
-[544] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[544] Biber.pm:133> INFO - WARNINGS: 1
+[193] biber-MSWIN64:340> INFO - === 
+[244] Biber.pm:419> INFO - Reading 'caroline_welter_cv.bcf'
+[392] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[415] Biber.pm:4419> INFO - Processing section 0
+[430] Biber.pm:4610> INFO - Looking for bibtex file 'papers.bib' for section 0
+[481] bibtex.pm:1713> INFO - LaTeX decoding ...
+[501] bibtex.pm:1519> INFO - Found BibTeX data source 'papers.bib'
+[588] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[588] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[589] Biber.pm:4239> INFO - Sorting list 'ydnt/apasortcite//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[589] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[610] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[610] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[611] Biber.pm:4239> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[611] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[622] bbl.pm:660> INFO - Writing 'caroline_welter_cv.bbl' with encoding 'UTF-8'
+[633] bbl.pm:763> INFO - Output to caroline_welter_cv.bbl
+[634] Biber.pm:131> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[635] Biber.pm:133> INFO - WARNINGS: 1

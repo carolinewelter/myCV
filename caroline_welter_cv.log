@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.7)  14 MAR 2024 09:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.7)  27 MAR 2024 09:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -818,16 +818,16 @@ L3 programming layer <2023-06-30>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `caroline_welter_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 2B6DECC97A693FC900BB6C8427FA053D;1058.
+(rerunfilecheck)             Checksum: 5BA5ACE58E835BCC54AF8783929F4A5A;965.
 Package logreq Info: Writing requests to 'caroline_welter_cv.run.xml'.
 \openout1 = `caroline_welter_cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20803 strings out of 475550
- 366013 string characters out of 5761118
+ 20801 strings out of 475550
+ 365993 string characters out of 5761118
  1943238 words of memory out of 5000000
- 41777 multiletter control sequences out of 15000+600000
+ 41776 multiletter control sequences out of 15000+600000
  565315 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,81p,1145b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -843,9 +843,9 @@ cm/cmsy10.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy6.pfb><C:/Users/caw00024/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmti10.pfb><C:/Users/caw00024/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on caroline_welter_cv.pdf (2 pages, 165888 bytes).
+Output written on caroline_welter_cv.pdf (2 pages, 164577 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
